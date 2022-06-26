@@ -2,8 +2,6 @@
 
 ## Analysis of manufacturing production data 
 
-### Overview of the Statistical Analysis:
-
 The purpose of this analysis is to review the manufacturing production data of AutosRUs newest prototype.  The company is suffering from production troubles that are blocking the manufacturing team’s progress.  Upper management has asked the team to review the manufacturing data and provide insights to help the manufacturing team move forward.
 
 The review will consist of multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes, show a summary on the PSI of the suspension coils from the manufacturing lots, and t-tests to determine if the manufacturing lots are statistically different from the mean population.  
